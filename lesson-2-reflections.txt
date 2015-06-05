@@ -1,0 +1,4 @@
+Lesson 2 Reflections
+
+What happens when you initialize a repo? Why?
+	.git is created to store metadata.
