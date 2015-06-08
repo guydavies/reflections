@@ -9,3 +9,7 @@ Describe the differences between forks, clones and brnaches.  When would you use
 	Branches are where a single repository is split in order to create different paths where different sets of changes can be applied, e.g. for when you want to try something out without affecting the "known good" version.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	It means that you can identify when other changes have been made to the remote since you last synced.
+How would you collaborate without using Git or GitHub? What would be easier and what would be harder?
+	Sharing tar/gzipped bundles of packages.
+	It would be easier to send to an individual straight away
+	Versioning and diffing would be more tricky
