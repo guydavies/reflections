@@ -3,3 +3,19 @@ Why?
 	Because they told me to
 How did it help?
 	It showed the changes, the good and bad, and made the task of finding the bad easier.
+How could it make me a better programmer?
+	I get to see a track of changes I've made and can learn about previous errors.
+What are the pros and cons of manually commiting vs automatic commits
+	manual commits result in a greater likelihood of usable content
+	automatic commits could result in unusable content where a commit occurs part way through a process
+	automatic commits avoid the failure to commit giving regular checkpoints
+	manual commits can be more frequent than just regular automatic commits
+Why do some version control systems treat multiple files as a single unit while others treat each file invividually?
+	Git and SVN are targetted at programming while Google Docs is more of a document system in which the files tend to have fewer dependencies.
+How to use git log and git diff to compare versions
+	git log shows the log of changes
+	git diff first second shows the details of the changes for all files changed in that commit
+How might using version control make you more confident to make changes that could break something
+	it's very easy to test locally then revert if something went wrong
+What will I use GIT for?
+	coding

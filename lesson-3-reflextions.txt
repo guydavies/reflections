@@ -13,11 +13,12 @@ How would you collaborate without using Git or GitHub? What would be easier and 
 	Sharing tar/gzipped bundles of packages.
 	It would be easier to send to an individual straight away
 	Versioning and diffing would be more tricky
-Pull request steps
+Pull request steps (merge a branch off my fork into master on my fork)
 	1. Pull changes from remote master into local master
 	2. Merge local master into branch
 	3. Push branch to remote
 	4. Merge branch into master on GitHub
+	5. Issue pull request to merge master on my fork into master on original
 When do you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 	separate branch provides separation of changes to be reviewed.
 	master is simpler but pushes go direct to master.

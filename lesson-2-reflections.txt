@@ -2,3 +2,7 @@ Lesson 2 Reflections
 
 What happens when you initialize a repo? Why?
 	.git is created to store metadata.
+How is staging area different from working directory? What value does each provide?
+	working directory contains the current version of all files
+	staging area only contains those files which have been added
+	this provides the flexibility to only commit those files that you want
